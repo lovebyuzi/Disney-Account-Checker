@@ -1,4 +1,8 @@
 # Disney+ Account Checker
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Multi-threaded](https://img.shields.io/badge/Multi--Threaded-Yes-success.svg)
+![Disney Account Checker ](https://cdn.discordapp.com/attachments/1413501158625906811/1419409520446275674/image.png?ex=68d1a7a1&is=68d05621&hm=2488d99df9a9d1282ca22dcc667ce8b1ad65b6822b30168a91fbafc9b52f625e&)
 
 ## Features
 
